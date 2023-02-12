@@ -1,0 +1,51 @@
+---
+title: "Group 3 Data Project Title Goes Here"
+
+author:
+  - Shannon McCarty
+  - Mig Shyaka
+  - Sam Tritsch
+  - Andrea Vukorepa
+date: "February 12, 2022"
+
+output: pdf_document
+tables: true
+header-includes: 
+  - \renewcommand{\and}{\\}
+  
+abstract: "Data project abstract goes here in the R Markdown header."
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(dplyr)
+library(reshape2)
+library(ggplot2)
+library(ggExtra)
+library(tm)
+library(zoo)
+library(lubridate)
+library(data.table)
+library(sf)
+library(purrr)
+library(openxlsx)
+library(data.table)
+library(stringr)
+library(maps)
+library(mapdata)
+library(shiny)
+library(shinydashboard)
+library(leaflet)
+library(tidyverse)
+library(ggplot2)
+library(ggmap)
+library(plotly)
+library(ggthemes)
+
+options(scipen=1000)
+
+
+```
+
+
