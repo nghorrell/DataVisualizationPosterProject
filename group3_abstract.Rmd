@@ -2,9 +2,9 @@
 title: "Group 3 Data Project Title Goes Here"
 
 author:
-  - Shannon McCarty
-  - Mig Shyaka
-  - Sam Tritsch
+  - Christine
+  - Haley
+  - Nathan
   - Andrea Vukorepa
 date: "February 12, 2022"
 
